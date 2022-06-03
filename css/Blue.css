@@ -1,0 +1,149 @@
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: blue;
+}
+
+.main-menu .navbar-default .navbar-nav .active a {
+    color: rgb(0, 153, 255);
+}
+
+.main-menu nav li a::after {
+    background: blue;
+}
+
+.typer {
+    color: rgb(0, 153, 255) !important;
+}
+
+.banner-text h2 {
+    color: rgb(0, 153, 255);
+}
+
+.book-btn a {
+    background: blue;
+    border: 3px solid blue;
+}
+
+.book-btn a:hover {
+    border: 3px solid blue;
+}
+
+.hvr-underline-from-center::before {
+    background: blue;
+}
+
+.block-title {
+    color: blue;
+}
+
+.item-type-zoom .item-hover:hover::before {
+    background: rgba(30, 43, 231, 0.5);
+}
+
+.special-box .owl-theme .owl-controls .owl-page.active span {
+    background: blue;
+}
+
+.offer-item div h3 {
+    color: blue;
+}
+
+.tab-menu .is-active {
+    background: blue;
+}
+
+.tab-menu .slick-arrow.slick-prev {
+    background: blue url(../../images/back.png) no-repeat center;
+    background-position: 2px 4px;
+}
+
+.tab-menu .slick-arrow.slick-next {
+    background: blue url(../../images/next.png) no-repeat center;
+    background-position: 7px 4px;
+}
+
+#block-title {
+    color: blue;
+}
+
+.offer-item .offer-price {
+    border: 1px solid blue;
+}
+
+.sf-team:hover .text-col {
+    background-color: blue;
+}
+
+.gal-item a::after {
+    background-color: rgba(30, 43, 231, 0.5);
+}
+
+.overlay i:hover {
+    border: 1px solid blue;
+    color: blue;
+}
+
+.book-srv a {
+    background: blue;
+    border: 3px solid blue;
+}
+
+.panel-body p strong span {
+    color: blue;
+}
+
+.pricing-main .panel-footer a {
+    background: blue;
+    border: 3px solid blue;
+}
+
+.pricing-main .panel-footer a:hover {
+    border: 3px solid blue;
+}
+
+.footer-news form a {
+    background: blue;
+}
+
+.footer-news form a:hover {
+    border: 2px dotted blue;
+}
+
+.footer-box-a h3 {
+    color: blue;
+}
+
+.footer-box-b h3 {
+    color: blue;
+}
+
+.footer-box-c h3 {
+    color: blue;
+}
+
+.footer-box-d h3 {
+    color: blue;
+}
+
+.footer-box-c p a:hover {
+    color: blue;
+}
+
+.footer-box-b ul li a:hover {
+    color: blue;
+}
+
+.footer-box .socials-box a:hover .social-circle-border {
+    color: blue;
+}
+
+.footer-box-c p i {
+    color: blue;
+}
+
+.copyright-main {
+    background: blue;
+}
+
+#color-panel a.panel-button:hover {
+    color: blue;
+}
